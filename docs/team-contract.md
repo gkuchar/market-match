@@ -58,3 +58,4 @@ Each member adds their own line, in their own commit.
 - Griffin Kuchar, 09/04/26
 - Vinh Nguyen, 09/04/26
 - Matthew Stafford, 09/04/26
+- Kevin Doan, 09/04/26
